@@ -1,7 +1,14 @@
-title: Elena Schulz-Ruhtenberg
-#logo
-description: PhD Student in Political Science
-#show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+title:
+Elena<br>
+Schulz-Ruhtenberg
+#logo
+description:
+Ph.D. Researcher<br>
+<em>Political Science/ Electoral Research</em><br>
+📍 Hertie School of Governance, Berlin<br>
+✉️ [e.schulz-ruhtenberg@phd.hertie-school.org](mailto:e.schulz-ruhtenberg@phd.hertie-school.org)
+
