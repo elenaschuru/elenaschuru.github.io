@@ -1,7 +1,7 @@
 
 
 
-## Hi! I'm currently building this website. Please check for updates again soon!
+## Hi! I'm currently building up this website...
 
 ## About me
 I'm a Ph.D. Researcher in Political Science [at the Hertie School of Governance](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/schulz-ruhtenberg) in Berlin studying attitudes and party competition on immigration and climate policy. My methodological focus is survey research and discrete-choice modelling. 
