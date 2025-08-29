@@ -2,6 +2,6 @@ title: Elena Schulz-Ruhtenberg
 #logo
 description: PhD Student in Political Science
 #show_downloads: true
-theme: jekyll-theme-minimal
-
-
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
