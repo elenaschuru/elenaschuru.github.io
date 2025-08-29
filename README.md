@@ -1,12 +1,12 @@
 
 
 
-## Hi! I'm currently building this website...
+## Hi! I'm currently building this website... 🚧 
 
-## About me
+## About me ℹ️ 
 I'm a Ph.D. Researcher in Political Science [at the Hertie School of Governance](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/schulz-ruhtenberg) in Berlin studying attitudes and party competition on immigration and climate policy. My methodological focus is survey research and discrete-choice modelling. 
 
-## Education
+## Education 🎓 
 I hold a Master's degree in Public Policy from Sciences Po Paris and a BA in Political Science from Freie Universität Berlin. During my studies, I spent semesters abroad at HEC Paris, Tallinn University and The Fletcher School of Law and Diplomacy in Boston. From August to December 2024, I was a visiting researcher and [Fulbright scholar](https://fulbright.de/) at Harvard University's Department of Government as a Fulbright Scholar.
 
 
