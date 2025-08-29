@@ -1,5 +1,3 @@
-<br><br><br>
-
 ## Hi! I'm currently building this website... 🚧 
 
 ## About me ℹ️ 
