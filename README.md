@@ -1,4 +1,4 @@
-<div style="height:48px"></div>
+<div style="height:100px"></div>
 
 ## Hi! I'm currently building this website... 🚧 
 
